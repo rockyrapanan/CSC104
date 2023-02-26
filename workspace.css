@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(160, 138, 79);
+}
+
+
+h1{
+   
+ font-size: 25pt;
+ font-family:'Lucida Sans';
+ color: blue;
+    
+}
+
+h2{
+    font-size: 23pts;
+    font-family:'Times New Roman';
+    color:rgb(0, 0, 0);
+}
+
+h3{
+    font-size: 20pts;
+    font-family: cursive;
+    color:black;
+}
+
+p{
+    font-size: 18pt;
+    color:rgb(87, 5, 16);
+
+}
